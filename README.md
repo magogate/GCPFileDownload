@@ -22,6 +22,7 @@ How to connect and then download GCP file from local machine using python progra
 ## Steps: 2 -
   As I was somewhat confused on Step2 - I again did the google search with keyword - "how to Download your Google Cloud service account key JSON file from the Google Cloud Console" - which gave me following results
   The UI is a little confusing, here is the step on how you can download the serviceAccount.json file:
+  
     a) log in to your GCP account - https://console.cloud.google.com/iam-admin
     b) Go to the "IAM & Admin" -> Service Accounts section. As shown in below image - or else simple search service account in search bar
     <img width="1098" height="445" alt="image" src="https://github.com/user-attachments/assets/ff839157-05b1-4c77-8711-0f4f2ba7112a" />
