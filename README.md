@@ -24,25 +24,25 @@ How to connect and then download GCP file from local machine using python progra
   The UI is a little confusing, here is the step on how you can download the serviceAccount.json file:
   
     a) log in to your GCP account - https://console.cloud.google.com/iam-admin
-    b) ![Go to the "IAM & Admin" -> Service Accounts section. As shown in below image - or else simple search service account in search bar]
-    <img width="1098" height="445" alt="image" src="https://github.com/user-attachments/assets/ff839157-05b1-4c77-8711-0f4f2ba7112a" />
-    
-    c) Create a new service account or Click on the existing service account. Click on 3 dots as shown in folloiwng image - and then click on Manage Keys.
-    <img width="1857" height="216" alt="image" src="https://github.com/user-attachments/assets/5bbd3065-997f-43b7-98e6-b3154e3514a7" />
-
-    d) Click on the "Keys" tab. Click on Add Key and Create New Key if key doesn't exists
-    <img width="861" height="313" alt="image" src="https://github.com/user-attachments/assets/0c40cb31-c89b-4518-b4ae-3622ce3e36f8" />
-
+    b) Go to the "IAM & Admin" -> Service Accounts section. As shown in below image - or else simple search service account in search bar    
+    c) Create a new service account or Click on the existing service account. Click on 3 dots as shown in folloiwng image - and then click on Manage Keys.    
+    d) Click on the "Keys" tab. Click on Add Key and Create New Key if key doesn't exists    
     e) Click on "Add Key" -> Click on "Create new Key".
-    f) Select "JSON" from the radio button
-    <img width="551" height="356" alt="image" src="https://github.com/user-attachments/assets/02f3a2c3-7218-4773-b288-731525449511" />
-
+    f) Select "JSON" from the radio button    
     g) Click on the "Create" button
     h) It will create and download the service-account.json file in your system
 
   
-  
+### Service Account  
 <img width="1098" height="445" alt="image" src="https://github.com/user-attachments/assets/ff839157-05b1-4c77-8711-0f4f2ba7112a" />
+
+###
 <img width="1857" height="216" alt="image" src="https://github.com/user-attachments/assets/5bbd3065-997f-43b7-98e6-b3154e3514a7" />
+
+### Add new key
 <img width="861" height="313" alt="image" src="https://github.com/user-attachments/assets/0c40cb31-c89b-4518-b4ae-3622ce3e36f8" />
+
+### Select JSON option
 <img width="551" height="356" alt="image" src="https://github.com/user-attachments/assets/02f3a2c3-7218-4773-b288-731525449511" />
+
+
